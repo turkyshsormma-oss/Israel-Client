@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "com.example.israelclient.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": ["PlayerMixin", "OwnNametagMixin", "UniversalTextMixin", "StringTextMixin"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
